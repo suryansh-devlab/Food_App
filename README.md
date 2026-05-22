@@ -27,7 +27,7 @@ The app provides a smooth food ordering experience with restaurant browsing, car
 
 ## 🏠 Home Screen
 
-![Home](assets/screenshots/homepage.jpeg)
+![Home](assets/screenshots/Homepage.jpeg)
 
 ---
 
